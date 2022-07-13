@@ -1,0 +1,9 @@
+<WebucatorTestData>
+
+    <url>https://www.webucator.com/</url>
+    <pageTitle>Online and Onsite Instructor-led Training Classes | Webucator</pageTitle>
+    <chromePath>C:/Users/00004999/Desktop/browsers/chromedriver</chromePath>
+    <bookName>Master In JS</bookName>
+
+
+</WebucatorTestData>

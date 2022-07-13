@@ -1,0 +1,20 @@
+<webucatortestdata>
+    <chromepath>C:/Users/00004999/AppData/Local/Programs/Python/Python310/Scripts/chromedriver</chromepath>
+    <URL>https://webucator.com</URL>
+    <Title>Online and Onsite Instructor-led Training Classes | Webucator</Title>
+    <Featured_Courses_header>Featured Courses</Featured_Courses_header>
+    <Featured_Courses_subtext>Our public classes</Featured_Courses_subtext>
+    <Featured_Courses1_Title>Apache Tomcat Administration for Windows Training</Featured_Courses1_Title>
+    <Featured_Courses1_Duration>3 days</Featured_Courses1_Duration>
+    <Featured_Courses1_Class>Next Live Class</Featured_Courses1_Class>
+    <Featured_Courses2_Title>Introduction to Microsoft Excel</Featured_Courses2_Title>
+    <Featured_Courses2_Duration>1 day</Featured_Courses2_Duration>
+    <Featured_Courses2_ClassNext>Next Live Class</Featured_Courses2_ClassNext>
+    <Featured_Courses3_Title>Oracle PL/SQL Training</Featured_Courses3_Title>
+    <Featured_Courses3_Duration>5 days</Featured_Courses3_Duration>
+    <Featured_Courses3_Title>Next Live Class</Featured_Courses3_Title>
+    <LogoAltValue>Webucator Logo</LogoAltValue>
+    <AboutUs_header>About Us</AboutUs_header>
+    <AboutUs_sublinks>Contact Us, About Webucator, Client Testimonials, Client List, Privacy Policy, In The Community, Train for Us, Cancellation Policy,Make a Payment</AboutUs_sublinks>
+
+</webucatortestdata>

@@ -1,0 +1,13 @@
+<fleekit>
+    <chromepath></chromepath>
+    <url>https://www.fleekitsolutions.com/</url>
+    <browser>Chrome</browser>
+    <FirstName>Thrupthi</FirstName>
+    <LastName>N</LastName>>
+    <email>test@abc.com</email>
+    <phone>12345678</phone>
+    <Subject>TestSubject</Subject>
+    <Message>TestMessage</Message>
+    <FleekTopMenuBars>About,Services,Verticals,Portfolio,Blogs,Contact Us</FleekTopMenuBars>
+    <ServicessubMenuOption>Core QA Services,Test automation,Mobile app testing,Performance testing,Accessibility Testing,Design and Development,Digital Marketing</ServicessubMenuOption>
+</fleekit>
