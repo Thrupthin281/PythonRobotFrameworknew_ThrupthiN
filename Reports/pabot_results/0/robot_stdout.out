@@ -1,0 +1,154 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.Pabot                                                                  
+==============================================================================
+Print_All_Links_Using_Robot                                           156
+
+HOME
+COURSES
+CORPORATE TRAINING
+
+
+
+
+
+
+ABOUT
+CONTACT
+
+Essential Java
+Developing Applications with Java 8
+JEE Test-Driven Development
+Mastering Test-Driven Development Using JUnit
+Java 9 New Features
+Advanced Java
+JSP & Servlets
+Java Best Practices and Design Patterns
+Implementing SOA with XML Web Services in Java
+Mastering the Spring Framework and Hibernate
+Deepdive in to SpringBoot & Spring Data
+Spring Security
+MicroServices using Spring Cloud
+Quarkus & MicroProfile
+Big Data Essentials for Managers & Non-Programmers
+Analysing Big Data Using Hadoop, Hive, Spark, and HBase
+Hadoop for MapReduce Applications
+Creating Distributed Applications Using Pig and Hive on Hadoop
+Introduction to NoSQL Databases
+Spark for Big Data Processing
+Learning Apache Kafka
+Scala Programming Foundations
+Apache Storm Fundamentals
+Comprehensive Pig
+Comprehensive Hive
+Python Tools for Data Analysis and Visualization
+Data Visualization with Tableau
+TIBCO Spotfire
+Data Visualization with Qlikview
+Data Science with Python
+Machine Learning with Python
+Data Science Using R
+Machine Learning using R
+Foundations of Data Scraping
+Machine Learning with Pig
+Introduction to Machine Learning
+Introduction to Neural Networks and Deep Learning
+Machine Learning Concepts
+Introduction to Linux
+Linux Workstation: Installing, Customizing, and Securing
+Linux Network Server: Installing, Setup, and Securing
+Red Hat Linux Boot Camp
+Introduction to UNIX
+Mastering UNIX
+Scripting/ Programming Languages
+Python Programming Essentials
+Advanced Python Programming
+Shell Programming
+PowerShell for Managing Windows Servers and Workstations
+Ruby Deepdive
+Kotlin Fundamentals
+C#
+Oracle Database & PL/SQL
+MySQL Fundamentals
+PostgreSQL Fundamentals
+Microsoft SQL
+Hbase
+MariaDB for Developers
+Master Neo4j Graph Database
+Cassandra
+MongoDB for Developers
+MongoDB for Administrators
+ASP.NET Core 5
+ASP.NET Core Development
+Microservices Using .NET Core
+Building Web Applications with ASP MVC
+RESTful.NET
+.NET Core Development
+.NET Fundamentals
+Web Development with HTML5 and CSS3
+Mastering JavaScript with ES6 & ES7
+jQuery Web Development
+Advanced jQuery Web Development
+Rich Internet Applications with Ajax, HTML5, and jQuery
+Node.js/MEAN End-to-End Web Development
+ReactJS Fundamentals
+Building Web Applications with React, Redux & Saga
+Angular SPA Development
+Web and Mobile Application Security
+IOS Development
+Android Development
+React Native
+Building Hybrid Apps using Ionic Framework
+Xamarin Programming for Cross-Platform Applications
+Journey to the Cloud
+Overview of Cloud Technology
+DevOps Foundations
+Hands-On Terraform
+DevOps Academy Bootcamp
+Cloud-Native Development
+Cloud Foundational Engineer Bootcamp
+Architecting Systems in the Cloud
+Hands-On Kubernetes
+SRE Essentials
+Hands-On Ansible
+Docker, Kubernetes & Jenkins
+Hands-On Puppet
+Hands-On Chef
+Hands-On Jenkins
+Amazon Web Services Technical Essentials
+AWS Cloud Practitioner Essentials
+AWS Cloud Essentials for Business Leaders
+Architecting on (AWS)
+Advanced Architecting on AWS
+AWS Well-Architected Best Practices
+Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)
+Big Data on AWS
+Building Data Analytics Solutions Using Amazon Redshift
+Building Data Lakes on AWS
+Data Warehousing on AWS
+Planning and Designing Databases on AWS
+Video Streaming Essentials for AWS Media Services
+Migrating to AWS
+AWS Security
+Developing for Amazon Web Services (AWS)
+Deploying Infrastructure on Amazon Web Services (AWS)
+Systems Operations on AWS
+Developing Serverless Solutions on AWS
+Architecting with Google Compute Engine
+Architecting with Google Cloud: Design and Process
+Developing Applications with Google Cloud Platform
+Architecting with Google Kubernetes Engine
+Logging, Monitoring, and Observability in Google Cloud
+Networking in Google Cloud
+Security in Google Cloud
+Machine Learning with TensorFlow on Google Cloud Platform
+| PASS |
+------------------------------------------------------------------------------
+Suites.Pabot                                                          | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\00004999\PycharmProjects\robot scripts\pythonProject\Day1PythonProgramming\Reports\pabot_results\0\output.xml

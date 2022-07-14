@@ -15,6 +15,9 @@ Validate_Google_Logo
 #Validate_Google_Logo
     #Wait Until Page Contains Element    xpath:(//input[@name='btnK'])[2]
 
+#Validate_Google_Logo
+    #Wait Until Page Contains Element    xpath:(//input[@type='checkbox'])[1]
+
 
 #   Validate Check box 1 is not checked
 
